@@ -1,6 +1,7 @@
 # Stardew Valley Crop Planner
 
-I am leaving most of the readme file intact simply because it's useful, however I wanted to make sure the link led to the proper location. I made this to allow myself to see how crop planting would go with my preferred mods that add crops and fish and characters. Hopefully this is helpful for ya! Currently it adds those for:
+I am leaving most of the readme file intact simply because it's useful, however I wanted to make sure the link led to the proper location. I made this to allow myself to see how crop planting would go with my preferred mods that add crops and fish and characters. Hopefully this is helpful for ya! I am not even remotely done with fixing the code, but all images have been added.
+Currently it adds those for:
   - Stardew Valley Expanded
 
 <a href="https://tiredenbee.github.io/SDV-Crop-Planner-Expanded-Edition/v3/" target="_blank">The Planner</a>
