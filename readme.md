@@ -1,32 +1,9 @@
 # Stardew Valley Crop Planner
 
-A tool for planning crop schedules in the Stardew Valley game.
+I am leaving most of the readme file intact simply because it's useful, however I wanted to make sure the link led to the proper location. I made this to allow myself to see how crop planting would go with my preferred mods that add crops and fish and characters. Hopefully this is helpful for ya! Currently it adds those for:
+  - Stardew Valley Expanded
 
-#### **<a href="http://exnil.github.io/crop_planner/">Live version on github.io</a>**
-
-<a href="https://www.reddit.com/r/StardewValley/comments/55puw1/crop_planner_v2_released_multiple_years_importing/" target="_blank">Reddit thread</a>
-
----
-
-### New in v2
-
-* Multiple year planning
-* Import/export plans
-* Import existing plans from the old v1 planner
- * (only works if old plans are on the same browser)
-* Greenhouse plans separated from outdoor Farm plans
-* Improved planner design
-* Slightly improved responsive design for mobile devices
-* Crop info and Settings moved to pop-out sidebar
-* Improved Crop Info panel
-* More settings
-* More seasonal statistics
-* A few keyboard shortcuts:
- * Left/Right arrows = navigate seasons
- * ESC = open/close sidebar (opens to crop info)
- * ~ (tilde) = toggle between outdoor farm/greenhouse
-
-I'll be leaving <a href="http://exnil.github.io/crop_planner/v1/" target="_blank">v1 of the planner</a> up for anyone who's interested in accessing it, though I won't be updating it any further so it will only ever be up to date with Stardew Valley v1.07.
+<a href="https://tiredenbee.github.io/SDV-Crop-Planner-Expanded-Edition/v3/" target="_blank">The Planner</a>
 
 ---
 
