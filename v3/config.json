@@ -1609,7 +1609,7 @@
 			"weather": "both",
 			"fishing_level": 0,
 			"locations": [
-				"Forest"
+				"Forest River"
 			],
 			"legendary": false,
 			"isBoss": false
@@ -1667,7 +1667,7 @@
 			"id": "ghostfish",
 			"difficulty": "50",
 			"times": [
-				"06:00 AM - 2:00 AM"
+				"Any"
 			],
 			"seasons": [
 				"spring",
@@ -1678,7 +1678,8 @@
 			"weather": "both",
 			"fishing_level": 0,
 			"locations": [
-				"Underground Mine"
+				"The Mines - Floor 20",
+				"The Mines - Floor 60"
 			],
 			"legendary": false,
 			"isBoss": false
@@ -1690,15 +1691,15 @@
 			"id": "glacierfish",
 			"difficulty": "100",
 			"times": [
-				"06:00 AM - 8:00 PM"
+				"Any"
 			],
 			"seasons": [
 				"winter"
 			],
-			"weather": "sunny",
+			"weather": "both",
 			"fishing_level": 6,
 			"locations": [
-				"Forest"
+				"South Arrowhead Island - Cindersap Forest"
 			],
 			"legendary": true,
 			"isBoss": true
@@ -1710,15 +1711,18 @@
 			"id": "glacierfish_jr.",
 			"difficulty": "100",
 			"times": [
-				"06:00 AM - 8:00 PM"
+				"Any"
 			],
 			"seasons": [
+				"spring",
+				"summer",
+				"fall",
 				"winter"
 			],
-			"weather": "sunny",
+			"weather": "both",
 			"fishing_level": 6,
 			"locations": [
-				"Forest"
+				"South Arrowhead Island - Cindersap Forest"
 			],
 			"legendary": true,
 			"isBoss": false
@@ -1730,7 +1734,7 @@
 			"id": "goby",
 			"difficulty": "55",
 			"times": [
-				"08:00 AM - 6:00 PM"
+				"Any"
 			],
 			"seasons": [
 				"spring",
@@ -1750,7 +1754,7 @@
 			"id": "green_algae",
 			"difficulty": "5",
 			"times": [
-				"06:00 AM - 2:00 AM"
+				"Any"
 			],
 			"seasons": [
 				"spring",
@@ -1768,7 +1772,7 @@
 				"Bug Land",
 				"Desert",
 				"Witch Swamp",
-				"Underground Mine"
+				"The Mines"
 			],
 			"legendary": false,
 			"isBoss": false
@@ -1803,7 +1807,7 @@
 			"id": "herring",
 			"difficulty": "25",
 			"times": [
-				"06:00 AM - 2:00 AM"
+				"Any"
 			],
 			"seasons": [
 				"spring",
@@ -1824,7 +1828,7 @@
 			"id": "ice_pip",
 			"difficulty": "85",
 			"times": [
-				"06:00 AM - 2:00 AM"
+				"Any"
 			],
 			"seasons": [
 				"spring",
@@ -1835,7 +1839,7 @@
 			"weather": "both",
 			"fishing_level": "5",
 			"locations": [
-				"Underground Mines (Lvl 60)"
+				"The Mines - Floor 60"
 			]
 		},
 		{
@@ -1856,7 +1860,7 @@
 			"weather": "both",
 			"fishing_level": 0,
 			"locations": [
-				"Mountain"
+				"Mountain Lake"
 			],
 			"legendary": false,
 			"isBoss": false
@@ -1868,7 +1872,7 @@
 			"id": "lava_eel",
 			"difficulty": "90",
 			"times": [
-				"06:00 AM - 2:00 AM"
+				"Any"
 			],
 			"seasons": [
 				"spring",
@@ -1880,7 +1884,7 @@
 			"fishing_level": 0,
 			"locations": [
 				"Ginger Island Volcano Caldera",
-				"Underground Mines (Lvl 100)"
+				"The Mines - Floor 100"
 			],
 			"legendary": false,
 			"isBoss": false
@@ -1892,18 +1896,15 @@
 			"id": "legend",
 			"difficulty": "110",
 			"times": [
-				"06:00 AM - 8:00 PM"
+				"Any"
 			],
 			"seasons": [
-				"spring",
-				"summer",
-				"fall",
-				"winter"
+				"spring"
 			],
 			"weather": "rainy",
 			"fishing_level": 10,
 			"locations": [
-				"Mountain"
+				"Mountain Lake"
 			],
 			"legendary": true,
 			"isBoss": true
@@ -1915,7 +1916,7 @@
 			"id": "legend_ii",
 			"difficulty": "110",
 			"times": [
-				"06:00 AM - 8:00 PM"
+				"Any"
 			],
 			"seasons": [
 				"spring",
@@ -1923,10 +1924,10 @@
 				"fall",
 				"winter"
 			],
-			"weather": "rainy",
+			"weather": "both",
 			"fishing_level": 10,
 			"locations": [
-				"Mountain"
+				"Mountain Lake"
 			],
 			"legendary": true,
 			"isBoss": false
