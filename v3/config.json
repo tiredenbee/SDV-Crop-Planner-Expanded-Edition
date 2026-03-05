@@ -6,7 +6,7 @@
 				"experience": 21
 			},
 			"id": "Ancient_Fiber",
-			"index": "Ancient_Fern_Seeds",
+			"index": "AncientFernSeeds",
 			"name": "Ancient Fiber",
 			"seasons": [
 				"summer"
@@ -1325,7 +1325,7 @@
 			"id": "anchovy",
 			"difficulty": "30",
 			"times": [
-				"06:00 AM - 2:00 AM"
+				"Any"
 			],
 			"seasons": [
 				"spring",
@@ -1346,13 +1346,10 @@
 			"id": "angler",
 			"difficulty": "85",
 			"times": [
-				"06:00 AM - 2:00 AM"
+				"Any"
 			],
 			"seasons": [
-				"spring",
-				"summer",
-				"fall",
-				"winter"
+				"fall"
 			],
 			"weather": "both",
 			"fishing_level": 3,
@@ -1369,12 +1366,9 @@
 			"id": "blobfish",
 			"difficulty": "75",
 			"times": [
-				"06:00 AM - 2:00 AM"
+				"05:00 PM - 2:00 AM"
 			],
 			"seasons": [
-				"spring",
-				"summer",
-				"fall",
 				"winter"
 			],
 			"weather": "both",
@@ -1393,7 +1387,7 @@
 			"id": "blue_discus",
 			"difficulty": "60",
 			"times": [
-				"06:00 AM - 2:00 AM"
+				"Any"
 			],
 			"seasons": [
 				"spring",
@@ -1404,8 +1398,8 @@
 			"weather": "both",
 			"fishing_level": 0,
 			"locations": [
-				"Ginger Island West",
-				"Ginger Island North"
+				"Ginger Island Pond",
+				"Ginger Island Rivers"
 			],
 			"legendary": false,
 			"isBoss": false
@@ -1428,8 +1422,8 @@
 			"weather": "both",
 			"fishing_level": 0,
 			"locations": [
-				"Town",
-				"Forest"
+				"Town River",
+				"Forest River"
 			],
 			"legendary": false,
 			"isBoss": false
@@ -1441,7 +1435,7 @@
 			"id": "bullhead",
 			"difficulty": "46",
 			"times": [
-				"06:00 AM - 2:00 AM"
+				"Any"
 			],
 			"seasons": [
 				"spring",
@@ -1452,7 +1446,7 @@
 			"weather": "both",
 			"fishing_level": 0,
 			"locations": [
-				"Mountain"
+				"Mountain Lake"
 			],
 			"legendary": false,
 			"isBoss": false
@@ -1464,12 +1458,13 @@
 			"id": "carp",
 			"difficulty": "15",
 			"times": [
-				"06:00 AM - 2:00 AM"
+				"Any"
 			],
 			"seasons": [
 				"spring",
 				"summer",
-				"fall"
+				"fall",
+				"winter"
 			],
 			"weather": "both",
 			"fishing_level": 0,
@@ -1489,19 +1484,19 @@
 			"id": "catfish",
 			"difficulty": "75",
 			"times": [
-				"06:00 AM - 12:00 PM"
+				"06:00 AM - 12:00 AM"
 			],
 			"seasons": [
 				"spring",
-				"fall",
-				"winter"
+				"summer",
+				"fall"
 			],
 			"weather": "rainy",
 			"fishing_level": 0,
 			"locations": [
-				"Town",
-				"Forest",
-				"Woods",
+				"Town River",
+				"Forest River",
+				"Secret Woods Pond",
 				"Witch Swamp"
 			],
 			"legendary": false,
@@ -1514,7 +1509,7 @@
 			"id": "chub",
 			"difficulty": "35",
 			"times": [
-				"06:00 AM - 2:00 AM"
+				"Any"
 			],
 			"seasons": [
 				"spring",
@@ -1525,8 +1520,8 @@
 			"weather": "both",
 			"fishing_level": 0,
 			"locations": [
-				"Mountain",
-				"Forest"
+				"Mountain Lake",
+				"Forest River"
 			],
 			"legendary": false,
 			"isBoss": false
@@ -1536,7 +1531,7 @@
 			"name": "Clam",
 			"crab_pot": true,
 			"id": "clam",
-			"chance": ".15",
+			"chance": "9%",
 			"locations": [
 				"ocean"
 			],
@@ -1548,7 +1543,7 @@
 			"name": "Cockle",
 			"crab_pot": true,
 			"id": "cockle",
-			"chance": ".3",
+			"chance": "12%",
 			"locations": [
 				"ocean"
 			],
@@ -1560,7 +1555,7 @@
 			"name": "Crab",
 			"crab_pot": true,
 			"id": "crab",
-			"chance": ".1",
+			"chance": "8%",
 			"locations": [
 				"ocean"
 			],
@@ -1572,7 +1567,7 @@
 			"name": "Crayfish",
 			"crab_pot": true,
 			"id": "crayfish",
-			"chance": ".35",
+			"chance": "21%",
 			"locations": [
 				"freshwater"
 			],
@@ -1586,15 +1581,15 @@
 			"id": "crimsonfish",
 			"difficulty": "95",
 			"times": [
-				"06:00 AM - 8:00 PM"
+				"Any"
 			],
 			"seasons": [
-				"winter"
+				"summer"
 			],
 			"weather": "both",
 			"fishing_level": 5,
 			"locations": [
-				"Beach"
+				"East Pier of the Beach"
 			],
 			"legendary": true,
 			"isBoss": true
