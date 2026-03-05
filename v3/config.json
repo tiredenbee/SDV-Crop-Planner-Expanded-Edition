@@ -1,6 +1,26 @@
 {
 	"crops": [
 		{
+			"buy": 0,
+			"harvest": {
+				"experience": 21
+			},
+			"id": "Ancient_Fiber",
+			"index": "Ancient_Fern_Seeds",
+			"name": "Ancient Fiber",
+			"seasons": [
+				"summer"
+			],
+			"sell": 145,
+			"stages": [
+				2,
+				2,
+				2,
+				3,
+				3
+			]
+		},
+		{
 			"buy": 70,
 			"harvest": {
 				"experience": 21
